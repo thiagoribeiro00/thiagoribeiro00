@@ -40,5 +40,5 @@ You can contact me through the following options
 <a href="https://github.com/Thcataclismo">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thcataclismo&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
 </a>
-<a href="https://github.com/Thcataclismo/ComposeCookBook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thcataclismo&repo=ComposeCookBook&theme=light" />
+<a href="https://github.com/Thcataclismo/ComposeCookBook](https://github.com/thiagoribeiro00/RAG_Llama3_Finetuning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thcataclismo&repo=RAG_Llama3_Finetuning&theme=light" />
