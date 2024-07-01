@@ -22,7 +22,7 @@ You can contact me through the following options
 
 ## 🚀 My Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="MYSQL"/></code>
+<code><img height="32" src="[https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png](https://www.google.com/imgres?q=pytorch%20png&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F10%2FPyTorch_logo_icon.svg%2F640px-PyTorch_logo_icon.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APyTorch_logo_icon.svg&docid=0An-wmlLTVoL2M&tbnid=YzLMFTR2VXbPJM&vet=12ahUKEwijqpb9vYaHAxXdppUCHe_1CvQQM3oECF8QAA..i&w=640&h=775&hcb=2&ved=2ahUKEwijqpb9vYaHAxXdppUCHe_1CvQQM3oECF8QAA)" alt="MYSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="PYTHON"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/></code>
