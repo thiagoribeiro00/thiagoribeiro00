@@ -40,5 +40,5 @@ You can contact me through the following options
 <a href="https://github.com/thiagoribeiro00">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoribeiro00&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
 </a>
-<a href="https://github.com/thiagoribeiro00/ComposeCookBook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoribeiro00&repo=ComposeCookBook&theme=light" />
+<a href="https://github.com/Thcataclismo/ComposeCookBook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thcataclismo&repo=ComposeCookBook&theme=light" />
