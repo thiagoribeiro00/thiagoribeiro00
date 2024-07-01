@@ -15,8 +15,8 @@
 You can contact me through the following options
 
 - E-mail: thiago2002sr@gmail.com
-- LinkedIn: [Meu perfil linkedin](https://www.linkedin.com/in/thiago-ribeiroml/)
-- Medium: [Meu perfil Medium](https://medium.com/@thiago2002sr)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/thiago-ribeiroml/)
+- Medium: [Medium](https://medium.com/@thiago2002sr)
 
 ----
 
@@ -31,10 +31,9 @@ You can contact me through the following options
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="FASTAPI"/></code>
 
 
+---
 
-
-
-
+## ⭐ Information about my GitHub account
 <a href="https://github.com/thiagoribeiro00">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoribeiro00&theme=light&hide_langs_below=1" />
 </a>
@@ -43,14 +42,3 @@ You can contact me through the following options
 </a>
 <a href="https://github.com/thiagoribeiro00/ComposeCookBook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoribeiro00&repo=ComposeCookBook&theme=light" />
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JAVASCRIPT"/></code>
-<code><img height="32" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png" alt="SQLALCHEMY"/></code>
-
-
-</code>
-
-
----
-
-## ⭐ Information about my GitHub account
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thcataclismo&show_icons=true)
