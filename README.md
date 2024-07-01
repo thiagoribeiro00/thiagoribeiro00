@@ -22,23 +22,23 @@ You can contact me through the following options
 
 ## 🚀 My Skills
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="Pytorch"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/keras/keras.png" alt="keras"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="tensorflow"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png" alt="opencv"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="Pytorch"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/keras/keras.png" alt="keras"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="tensorflow"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png" alt="opencv"/></code>
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="go"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="r"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="go"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="r"/></code>
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="nextjs"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/docker-image/docker-image.png" alt="docker"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="express"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="nextjs"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker-image/docker-image.png" alt="docker"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="express"/></code>
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/cuda/cuda.png" alt="cuda"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cuda/cuda.png" alt="cuda"/></code>
 
 
 
