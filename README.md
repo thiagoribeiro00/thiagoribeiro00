@@ -1,13 +1,13 @@
 ##  Hello, my name is <strong>Thiago Ribeiro!</strong>
 
-> I currently work as a full stack developer at ledax in Salvador.
+> I currently work as a Machine Learning Engineer at Market Intent.
 
 🔭 Current Projects
-- Data processing pipeline - https://github.com/Thcataclismo/Analysis_of_Sentiments
-- Content management with FastAPI and SQLalchemy - https://github.com/Thcataclismo/GerenciamentoDeConteudo
-- Landing page with react - https://github.com/Thcataclismo/landingpage
-- TED TALK recommendation system - https://github.com/Thcataclismo/Sistema_de_Recomenda-o_de_Ted_Talks
-- Social Network with HTML and CSS - https://github.com/Thcataclismo/Redesocial
+- RAG_Llama3_Finetuning - https://github.com/thiagoribeiro00/RAG_Llama3_Finetuning
+- Face Detection - https://github.com/thiagoribeiro00/Face_Detection
+- Web-Crawler-Notices - https://github.com/thiagoribeiro00/Web-Crawler-Notices
+- Data-sciense - https://github.com/thiagoribeiro00/Data-sciense-
+- Bootcamp-Analista-de-Machine-Learning - https://github.com/thiagoribeiro00/Bootcamp-Analista-de-Machine-Learning
 
 💬 Get in Touch!
 - Hello! If you have any questions, suggestions or just want to exchange ideas about software development, data engineering or any other related topic, feel free to contact me. I'm always open to new conversations and love collaborating with other developers.
