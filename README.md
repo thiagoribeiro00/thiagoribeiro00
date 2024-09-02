@@ -1,64 +1,53 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/thiagoribeiro00/count.svg?"  />
-</div>
+##  Hello, my name is <strong>Thiago Ribeiro!</strong>
 
-###
+> I currently work as a Machine Learning Engineer at Market Intent.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+🔭 Current Projects
+- RAG_Llama3_Finetuning - [link](https://github.com/thiagoribeiro00/RAG_Llama3_Finetuning)
+- Face Detection - [link](https://github.com/thiagoribeiro00/Face_Detection)
+- Web-Crawler-Notices - [link](https://github.com/thiagoribeiro00/Web-Crawler-Notices)
+- Data-sciense - [link](https://github.com/thiagoribeiro00/Data-sciense-)
+- Bootcamp-Analista-de-Machine-Learning - [link](https://github.com/thiagoribeiro00/Bootcamp-Analista-de-Machine-Learning)
 
-###
+💬 Get in Touch!
+- Hello! If you have any questions, suggestions or just want to exchange ideas about software development, data engineering or any other related topic, feel free to contact me. I'm always open to new conversations and love collaborating with other developers.
 
-<div align="center">
-  <a href="www.linkedin.com/in/thiago-ribeiroml" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/thiago2002sr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://medium.com/@thiago2002sr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-</div>
+You can contact me through the following options
 
-###
+- E-mail: thiago2002sr@gmail.com
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/thiago-ribeiroml/)
+- Medium: [Medium](https://medium.com/@thiago2002sr)
 
-<img src="https://raw.githubusercontent.com/thiagoribeiro00/thiagoribeiro00/output/snake.svg" alt="Snake animation" />
+----
 
-###
+## 🚀 My Skills
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagoribeiro00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagoribeiro00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="Pytorch"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/keras/keras.png" alt="keras"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="tensorflow"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png" alt="opencv"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="go"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="r"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="nextjs"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker-image/docker-image.png" alt="docker"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="express"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cuda/cuda.png" alt="cuda"/></code>
 
-###
 
-<div align="right">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=thiago2002sr&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
-###
+
+---
+
+## ⭐ Information about my GitHub account
+<a href="https://github.com/Thcataclismo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thcataclismo&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Thcataclismo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thcataclismo&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
+</a>
+<a href="https://github.com/Thcataclismo/ComposeCookBook](https://github.com/thiagoribeiro00/RAG_Llama3_Finetuning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thcataclismo&repo=RAG_Llama3_Finetuning&theme=light" />
