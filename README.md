@@ -1,6 +1,6 @@
 ##  Hello, my name is <strong>Thiago Ribeiro!</strong>
 
-> I currently work as a Machine Learning Engineer at Market Intent.
+> I currently work as a Machine Learning Engineer.
 
 🔭 Current Projects
 - RAG_Llama3_Finetuning - [link](https://github.com/thiagoribeiro00/RAG_Llama3_Finetuning)
