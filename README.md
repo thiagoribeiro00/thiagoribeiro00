@@ -43,11 +43,11 @@ You can contact me through the following options
 ---
 
 ## ⭐ Information about my GitHub account
-<a href="https://github.com/Thcataclismo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thcataclismo&theme=light&hide_langs_below=1" />
+<a href="https://github.com/thiagoribeiro00">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoribeiro00&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Thcataclismo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thcataclismo&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoribeiro00&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
 </a>
-<a href="https://github.com/Thcataclismo/ComposeCookBook](https://github.com/thiagoribeiro00/RAG_Llama3_Finetuning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thcataclismo&repo=RAG_Llama3_Finetuning&theme=light" />
+<a href="https://github.com/thiagoribeiro00/ComposeCookBook](https://github.com/thiagoribeiro00/RAG_Llama3_Finetuning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagoribeiro00&repo=RAG_Llama3_Finetuning&theme=light" />
