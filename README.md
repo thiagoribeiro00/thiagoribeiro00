@@ -2,7 +2,7 @@
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=thiagoribeiro00&color=006bed)](https://github.com/thiagoribeiro00)
 
-I'm a passionate and skilled developer with a Technological Degree in Systems Analysis and Development from Estácio de Sá University[cite: 1]. My expertise lies in building scalable AI solutions, developing applications, and implementing efficient data pipelines. I have a strong foundation in both front-end and back-end development, as well as DevOps practices.
+I'm a passionate and skilled developer with a Technological Degree in Systems Analysis and Development from Estácio de Sá University. My expertise lies in building scalable AI solutions, developing applications, and implementing efficient data pipelines. I have a strong foundation in both front-end and back-end development, as well as DevOps practices.
 
 ## About Me
 
