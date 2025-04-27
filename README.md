@@ -40,7 +40,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernets](https://img.shields.io/badge/-Kubernets-333333?style=flat&logoColor=00599C)
 ![AzureDevops](https://img.shields.io/badge/-AzureDevops-333333?style=flat&logoColor=00599C)
-![AwsDevops](https://img.shields.io/badge/-AWS-CodePipeline-333333?style=flat&logoColor=00599C)
+![AwsDevops](https://img.shields.io/badge/-AWSCodePipeline-333333?style=flat&logoColor=00599C)
 
 **Ferramentas de desenvolvimento**
 
