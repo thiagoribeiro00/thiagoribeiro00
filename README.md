@@ -8,11 +8,11 @@ I'm a passionate and skilled developer with a Technological Degree in Systems An
 
 I've worked on a variety of projects, from developing AI-driven tools to building internal systems and applications. I'm experienced in:
 
-* Designing scalable AI architectures and integrating advanced NLP technologies[cite: 3, 4].
-* Building chatbots using LangChain and LLMs[cite: 8].
-* Developing web applications with React.js, Next.js, and Django[cite: 16, 24].
-* Implementing CI/CD and MLOps practices[cite: 10, 11].
-* Working with databases like PostgreSQL, MongoDB, and Neo4j[cite: 13, 27].
+* Designing scalable AI architectures and integrating advanced NLP technologies.
+* Building chatbots using LangChain and LLMs.
+* Developing web applications with React.js, Next.js, and Django.
+* Implementing CI/CD and MLOps practices.
+* Working with databases like PostgreSQL, MongoDB, and Neo4j.
 
 I'm committed to delivering high-quality solutions and staying up-to-date with the latest technologies in the field.
 
@@ -79,65 +79,32 @@ I'm committed to delivering high-quality solutions and staying up-to-date with t
 
 ## Featured Projects
 
-* **AI Comment Moderation:** Developed an automated system in .NET with OpenAI's GPT-3.5-turbo for real-time detection of inappropriate content[cite: 39].
-* **AI-Driven Supply Chain Intelligence:** Created a Python tool with ReAct prompts and AI agents to evaluate financial and geopolitical risks using OpenAI GPT-3.5 and the Tavily API[cite: 40].
-* **Web Scraping Product:** Led the development of a Web Scraping product leveraging LLMs to extract data from approximately 10,000 Shopify stores[cite: 31].
+* **AI Comment Moderation:** Developed an automated system in .NET with OpenAI's GPT-3.5-turbo for real-time detection of inappropriate content.
+* **AI-Driven Supply Chain Intelligence:** Created a Python tool with ReAct prompts and AI agents to evaluate financial and geopolitical risks using OpenAI GPT-3.5 and the Tavily API.
+* **Web Scraping Product:** Led the development of a Web Scraping product leveraging LLMs to extract data from approximately 10,000 Shopify stores.
 
 ## Experience
 
-* **AI Solutions Architect - Consultant at yelo** (Jan 2025 - Present) [cite: 2, 3, 4, 5, 6, 7]
-    * Designed scalable AI architectures for generative AI solutions[cite: 3].
-    * Integrated advanced NLP with S-BERT[cite: 4].
-    * Planned infrastructure for vector databases[cite: 5].
-    * Aligned architectures with client needs[cite: 6].
-    * Collaborated with technical teams and stakeholders[cite: 7].
-* **Machine Learning Engineer (NLP) - Mid Level at AM53 Smart Solutions** (Dec 2024 - Present) [cite: 8, 9, 10, 11, 12, 13, 14]
-    * Built an advanced chatbot using LangChain, GraphRAG, Neo4j AuraDB and LLMs[cite: 8].
-    * Implemented CI/CD and MLOps on Azure[cite: 10, 11].
-    * Used Docker and Docker Compose for isolated environments[cite: 12].
-    * Performed database modeling with Neo4j AuraDB[cite: 13, 14].
-* **Machine Learning Engineer (NLP) at Market Intent** (Dec 2023 - Nov 2024) [cite: 15, 16, 17, 18, 19, 20, 21, 22, 23]
-    * Enhanced an LLM Llama 3 model for marketing and sales[cite: 15].
-    * Developed a platform using Express.js and Next.js[cite: 16].
-    * Integrated APIs from Brave and OpenAI[cite: 17].
-    * Utilized GROQ and Mistral for question processing[cite: 18].
-    * Implemented RAG technique[cite: 19, 20].
-    * Applied HCP techniques to reduce response times[cite: 20].
-    * Engineered prompts for AI agents[cite: 23].
-* **Python Developer at Ledax Energy** (Mar 2023 - May 2024) [cite: 23, 24, 25, 26, 27, 28, 29]
-    * Developed internal systems and applications[cite: 23, 24].
-    * Maintained internal websites using Python/Django, Docker, Linux and JavaScript/Node.js/Next.js[cite: 24].
-    * Integrated internal systems and created ETL data pipelines[cite: 25].
-    * Supported the ERP system[cite: 26].
-    * Managed MySQL and Oracle SQL databases[cite: 27].
-    * Created applications and automations within the Power Platform[cite: 28].
-    * Performed data analysis and forecasting with Power BI[cite: 28].
-    * Used Agile SCRUM methodology with JIRA[cite: 29].
-* **Python Developer at Thruways** (Set 2023 - Dec 2024) [cite: 30, 31, 32, 33, 34]
-    * Developed internal systems and applications[cite: 30, 31].
-    * Led the development of a Web Scraping product with LLMs[cite: 31].
-    * Built Web Scraping solutions with Python, TensorFlow, and PyTorch[cite: 32].
-    * Applied OpenCV for image analysis[cite: 33].
-    * Managed data storage using MySQL and AWS[cite: 33].
-    * Designed microservices following SOLID principles[cite: 34].
-* **Machine Learning / Data Science Freelancer** (Mar 2021 - Mar 2023) [cite: 35, 36, 37, 38]
+* **AI Solutions Architect - Consultant at yelo** (Jan 2025 - Present)
+    * Designed scalable AI architectures for generative AI solutions
+    * Integrated advanced NLP with S-BERT
+    * Planned infrastructure for vector databases
+    * Aligned architectures with client needs
+    * Collaborated with technical teams and stakeholders
+* **Machine Learning Engineer (NLP) - Mid Level at AM53 Smart Solutions** (Dec 2024 - Present)
+    * Built an advanced chatbot using LangChain, GraphRAG, Neo4j AuraDB and LLMs
+    * Implemented CI/CD and MLOps on Azure
+    * Used Docker and Docker Compose for isolated environments
+    * Performed database modeling with Neo4j AuraDB
+* **Machine Learning Engineer (NLP) at Market Intent** (Dec 2023 - Nov 2024)
+    * Enhanced an LLM Llama 3 model for marketing and sales
+    * Developed a platform using Express.js and Next.js
+    * Integrated APIs from Brave and OpenAI
+    * Utilized GROQ and Mistral for question processing
+    * Implemented RAG technique
+    * Applied HCP techniques to reduce response times
+    * Engineered prompts for AI agents
 
-    * Created and tuned machine learning models[cite: 35].
-    * Adjusted language models using transfer learning[cite: 36].
-    * Developed deep neural network architectures[cite: 37].
-    * Trained deep learning models for image recognition and NLP[cite: 38].
-
-## Licenses and Certificates
-
-* AI Agents in LangGraph - DeepLearning.ai [cite: 41]
-* LLMOps - DeepLearning.ai [cite: 41]
-* LangChain for LLM Application Development - DeepLearning.ai [cite: 41]
-* Deep Learning Training with Pytorch - Alura [cite: 41]
-* Advanced Machine Learning Training - Alura [cite: 41]
-* Natural Language Processing Techniques Training - Alura [cite: 41]
-* Statistics training with Python - Alura [cite: 41]
-* Advanced python techniques - Linkedin [cite: 41]
-* Machine Learning Analyst BootCamp - IGT [cite: 41]
 
 ## Let's Connect
 
