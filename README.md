@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logoColor=00599C)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logoColor=00599C)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logoColor=00599C)
-![Pydantic AI](https://img.shields.io/badge/-Pydantic-AI-333333?style=flat&logoColor=00599C)
+![PydanticAI](https://img.shields.io/badge/-PydanticAI-333333?style=flat&logoColor=00599C)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=flat&logoColor=00599C)
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logoColor=00599C)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logoColor=00599C)
@@ -39,8 +39,8 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernets](https://img.shields.io/badge/-Kubernets-333333?style=flat&logoColor=00599C)
-![Azure-Devops](https://img.shields.io/badge/-Azure-Devops-333333?style=flat&logoColor=00599C)
-![Aws-Devops](https://img.shields.io/badge/-AWS-CodePipeline-333333?style=flat&logoColor=00599C)
+![AzureDevops](https://img.shields.io/badge/-AzureDevops-333333?style=flat&logoColor=00599C)
+![AwsDevops](https://img.shields.io/badge/-AWS-CodePipeline-333333?style=flat&logoColor=00599C)
 
 **Ferramentas de desenvolvimento**
 
